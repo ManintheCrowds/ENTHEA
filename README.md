@@ -1,3 +1,15 @@
+## About this fork
+
+**Upstream:** [elder-plinius/ENTHEA](https://github.com/elder-plinius/ENTHEA) — Pliny created ENTHEA, a real-time psychedelic visual synthesizer and pro-grade music visualizer (AGPL-3.0).
+
+**This fork ([ManintheCrowds/ENTHEA](https://github.com/ManintheCrowds/ENTHEA))** explores **Muse EEG as an I/O control surface** via a **features-only seam** (derived band powers / attention metrics — no raw EEG in the browser). The Muse bridge and seam patches live in the operator workspace vendored tree until live hardware validation completes.
+
+**Honest status:** The public fork is **currently identical to upstream** — no EEG I/O patches are merged here yet. Live Muse S (MS-02) commissioning and first validated session are **pending operator hardware gates** (`MUSE-002` → `MUSE-003` → `MUSE-005`).
+
+Credit to **[Pliny](https://github.com/elder-plinius)** remains below in **THE PACT** and **GIFT**. Fork changes will stay creator-respecting: upstream attribution intact, AGPL-3.0 preserved, features-only boundary documented before any public host.
+
+---
+
 ```
     ███████╗███╗   ██╗████████╗██╗  ██╗███████╗ █████╗ 
     ██╔════╝████╗  ██║╚══██╔══╝██║  ██║██╔════╝██╔══██╗
